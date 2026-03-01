@@ -1,11 +1,7 @@
 ---
 name: xiaoyuzhou-downloader
 description: |
-  Download audio from Xiaoyuzhou (小宇宙FM) podcast platform. Use when users want to:
-  (1) Download single podcast episodes from xiaoyuzhoufm.com
-  (2) Download entire podcast series/albums from Xiaoyuzhou
-  (3) Get podcast metadata (title, description, cover image)
-  (4) Batch download multiple episodes
+  Download audio from Xiaoyuzhou (小宇宙FM) podcast platform. Supports single episode download, entire podcast series download, metadata extraction, and batch download.
   Trigger phrases: "下载小宇宙", "小宇宙音频下载", "download xiaoyuzhou", "小宇宙播客下载"
 ---
 
