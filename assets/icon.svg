@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#6C5CE7"/>
+  
+  <!-- Podcast/Headphones icon -->
+  <g fill="white">
+    <!-- Left ear cup -->
+    <ellipse cx="36" cy="64" rx="12" ry="18"/>
+    <!-- Right ear cup -->
+    <ellipse cx="92" cy="64" rx="12" ry="18"/>
+    <!-- Headband -->
+    <path d="M36 52 Q36 28 64 28 Q92 28 92 52" stroke="white" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <!-- Microphone stand -->
+    <rect x="61" y="45" width="6" height="35" rx="3"/>
+    <!-- Microphone head -->
+    <ellipse cx="64" cy="80" rx="10" ry="8"/>
+  </g>
+  
+  <!-- Sound waves -->
+  <g stroke="#A29BFE" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M20 44 Q14 64 20 84"/>
+    <path d="M108 44 Q114 64 108 84"/>
+  </g>
+</svg>
