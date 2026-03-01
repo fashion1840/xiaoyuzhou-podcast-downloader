@@ -1,5 +1,7 @@
 # 🎧 小宇宙播客下载器
 
+[English](./README.md) | [中文](./README_zh.md)
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue?style=flat-square)
@@ -8,7 +10,7 @@
 
 <img src="assets/icon.svg" width="128" height="128" alt="小宇宙下载器">
 
-用于从喜马拉雅小宇宙播客平台下载音频的 OpenCode 技能。
+用于从小宇宙FM播客平台下载音频的 OpenCode 技能。
 
 </div>
 

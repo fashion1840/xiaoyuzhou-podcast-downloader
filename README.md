@@ -1,5 +1,7 @@
 # 🎧 Xiaoyuzhou Podcast Downloader
 
+[English](./README.md) | [中文](./README_zh.md)
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue?style=flat-square)
